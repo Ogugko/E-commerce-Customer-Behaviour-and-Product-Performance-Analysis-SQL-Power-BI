@@ -1,1 +1,1 @@
-# Marketing-Capaign-Analysis-SQL-Power-BI
+# Marketing-Campaign-Analysis-SQL-Power-BI
