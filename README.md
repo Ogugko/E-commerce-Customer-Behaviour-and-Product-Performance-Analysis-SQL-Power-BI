@@ -1,7 +1,7 @@
 # E-commerce-Customer-Behaviour-and-Product-Performance-Analysis-SQL-Power-BI
 
 ### Background
-Olist, a Brazilian e-commerce platform, connects small and medium-sized businesses to customers across Brazil through a marketplace. The Olist sales dataset, spanning from September 2016 to September 2018, prvoides anonymised information about orders, including order date, product details, shipping data and customer IDs. 
+Olist, a Brazilian e-commerce platform, connects small and medium-sized businesses to customers across Brazil through a marketplace. The Olist sales dataset, spanning from September 2016 to September 2018, provides anonymised information about orders, including order date, product details, shipping data and customer IDs. 
 
 ### Business Task
 Analyse Olist's customer behaviour and product performance to identify trends and opportunities for enhancing the platform's offerings. 
@@ -25,6 +25,18 @@ Power BI for Data Visualisation
 
 ### Data Set
 The data set is publicly available on [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
+
+### Insights
+
+- Olist has 99.44K customers, with 2997 of them being repeat customers.  
+- There were over a total number of 96.46K orders within the timeframe. 
+- The average customer lifetime value is R$119.98 
+- Art products are the most popular product category, with 63 orders.
+- The most common time of the day that orders were placed was between 12pm and 6pm during the weekday.
+- Sao Paulo was the state with the most orders, at 42,000.
+- May was the month with the most orders, whilst September was the lowest.
+- The average delivery time was 12 days.
+
 
 ### Dashboard 
 ![Olist Dashboard](https://github.com/Ogugko/E-commerce-Customer-Behaviour-and-Product-Performance-Analysis-SQL-Power-BI/assets/143842831/6088e8aa-7ff8-451c-9a22-94a9b65166c6)
