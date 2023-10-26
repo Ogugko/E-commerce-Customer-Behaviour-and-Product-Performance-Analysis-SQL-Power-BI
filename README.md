@@ -1,10 +1,10 @@
 # E-commerce-Customer-Behaviour-and-Product-Performance-Analysis-SQL-Power-BI
 
 ### Background
-Super Store is a small retail business located in the United States. They sell Furniture, Office Supplies and Technology products and their customers are the mass Consumer, Corporate and Home Offices. The data set contains sales, profit and geographical information of individual orders.
+Olist, a Brazilian e-commerce platform, connects small and medium-sized businesses to customers across Brazil through a marketplace. The Olist sales dataset, spanning from September 2016 to September 2018, prvoides anonymised information about orders, including order date, product details, shipping data and customer IDs. 
 
 ### Business Task
-Analyse Maven Telecom's customer churn data to identify key drivers of churn, assess the 
+Analyse Olist's customer behaviour and product performance to identify trends and opportunities for enhancing the platform's offerings. 
 
 ### Business Questions
 1. Who are our customers and Where are they located?
