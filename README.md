@@ -1,4 +1,5 @@
-# E-commerce-Customer-Behaviour-and-Product-Performance-Analysis-SQL-Power-BI
+## E-commerce Customer Behaviour and Product Performance Dashboard 
+![Olist Dashboard](https://github.com/Ogugko/E-commerce-Customer-Behaviour-and-Product-Performance-Analysis-SQL-Power-BI/assets/143842831/6088e8aa-7ff8-451c-9a22-94a9b65166c6)
 
 ### Background
 Olist, a Brazilian e-commerce platform, connects small and medium-sized businesses to customers across Brazil through a marketplace. The Olist sales dataset, spanning from September 2016 to September 2018, provides anonymised information about orders, including order date, product details, shipping data and customer IDs. 
@@ -19,9 +20,9 @@ Analyse Olist's customer behaviour and product performance to identify trends an
 10. What products are often bought together? 
 
 ### Tools
-Excel for Data Cleaning
-SQL for Exploratory Data Analysis 
-Power BI for Data Visualisation
+- Excel for Data Cleaning
+- SQL for Exploratory Data Analysis 
+- Power BI for Data Visualisation
 
 ### Data Set
 The data set is publicly available on [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
@@ -38,5 +39,3 @@ The data set is publicly available on [Kaggle](https://www.kaggle.com/datasets/o
 - The average delivery time was 12 days.
 
 
-### Dashboard 
-![Olist Dashboard](https://github.com/Ogugko/E-commerce-Customer-Behaviour-and-Product-Performance-Analysis-SQL-Power-BI/assets/143842831/6088e8aa-7ff8-451c-9a22-94a9b65166c6)
