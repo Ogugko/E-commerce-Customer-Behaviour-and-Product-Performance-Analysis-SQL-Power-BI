@@ -1,5 +1,5 @@
 ## E-commerce Customer Behaviour and Product Performance Dashboard 
-![Olist Dashboard](https://github.com/Ogugko/E-commerce-Customer-Behaviour-and-Product-Performance-Analysis-SQL-Power-BI/assets/143842831/6088e8aa-7ff8-451c-9a22-94a9b65166c6)
+![image](https://github.com/Ogugko/E-commerce-Customer-Behaviour-and-Product-Performance-Analysis-SQL-Power-BI/assets/143842831/904dffb2-8b18-4650-81e2-0dc885373fe9)
 
 ### Background
 Olist, a Brazilian e-commerce platform, connects small and medium-sized businesses to customers across Brazil through a marketplace. The Olist sales dataset, spanning from September 2016 to September 2018, provides anonymised information about orders, including order date, product details, shipping data and customer IDs. 
